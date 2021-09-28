@@ -19,3 +19,17 @@ Memory limit: 1 GB.
 There is at least one letter in the input grid.
 No letter appears in more than one cell in the input grid.
 It is guaranteed that at least one answer exists for each test case.
+
+Example Input :
+3
+3 3
+G??
+?C?
+??J
+3 4
+CODE
+????
+?JAM
+2 2
+CA
+KE
